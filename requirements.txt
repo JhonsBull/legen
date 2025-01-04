@@ -6,4 +6,4 @@ torch
 tqdm
 whisper
 vidqa
-git+https://github.com/m-bain/whisperX
+git+https://github.com/Barabazs/whisperX.git
